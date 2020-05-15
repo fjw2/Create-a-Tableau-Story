@@ -7,4 +7,4 @@ The write-up contains detailed information about each story point and what feedb
 ### Project Links
 
 Final Draft:
-https://public.tableau.com/profile/jacob.williams8617#!/vizhome/CreateaTableauStoryBaseballFinalDraft/CreateaTableauStoryProject 
+https://public.tableau.com/profile/jacob.williams8617#!/vizhome/CreateaTableauStory-BaseballFinalDraft/CreateaTableauStoryProject
