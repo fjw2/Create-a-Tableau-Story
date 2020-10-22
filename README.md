@@ -1,6 +1,6 @@
-# Create a Tableau Story:  Baseball Players
+# Tableau Story:  Baseball Players
 
-This project was completed to obtain hands on experience with using Tableau by analyzing a dataset of baseball players with a number of features. It was a part of Udacity's Data Analyst Nanodegree program. 
+This project was completed to obtain hands on experience with using Tableau by analyzing a dataset of baseball players with a number of features.
 
 ### Project Link
 
